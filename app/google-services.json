@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756562231807",
+    "firebase_url": "https://ugym-f8ebd-default-rtdb.firebaseio.com",
+    "project_id": "ugym-f8ebd",
+    "storage_bucket": "ugym-f8ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756562231807:android:20405564524709926767ca",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756562231807-u7pmq9p2egtdo7s779l7q58a9q77hcj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "204a80762609919a589a2a45bef9282f541bf1b2"
+          }
+        },
+        {
+          "client_id": "756562231807-2gsi7j5g3jv471dti1cpib16d0j5iru4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5m3Sqa4dHzBB6GlXtqTIB_7nrku4N9pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756562231807-2gsi7j5g3jv471dti1cpib16d0j5iru4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
